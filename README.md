@@ -4,7 +4,7 @@ Guia desenvolvido para turma de sistemas para internet na Faeterj de Barra Mansa
 
 ## instalação
 
-[Link para download do Git]: https://git-scm.com/
+[Link para download do Git](https://git-scm.com/)
 
 ### Abordagem do workshop
 
